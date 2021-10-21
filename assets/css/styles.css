@@ -668,6 +668,10 @@ a.dotted-link:hover {
   .project-image {
     margin-bottom: 15px;
   }
+  .mobileVideo{
+    width: 100%;
+    height: 200px;
+  }
 }
 
 @media (min-width: 1400px) {
